@@ -1,6 +1,4 @@
-"""
-Endpoints for the High School Management System API
-"""
+
 
 from fastapi import APIRouter, HTTPException, Query
 from fastapi.responses import RedirectResponse
